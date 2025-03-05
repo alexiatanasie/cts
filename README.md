@@ -1,2 +1,2 @@
 # cts
-cts bla bla
+cts seminars & courses bla bla
