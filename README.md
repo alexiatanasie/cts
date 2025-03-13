@@ -1,2 +1,3 @@
 # cts
-cts seminars & courses bla bla
+cts seminars & courses 2025
+
