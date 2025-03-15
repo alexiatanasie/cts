@@ -1,0 +1,24 @@
+	DRY =DO NOT REPEAT YOURSELF. 
+daca ai cod duplicat, creeaza o functie/metoda reutibilizabila
+
+	KISS = KEEP IT SIMPLE, STUPID
+scrie cod simplu si clar, nu complica inutil lucrurile, evita verificari inutile si emtode complicate
+
+	YAGNI = YOU AIN'T GONNA NEED IT
+nu adauga functionalitati de care nu ai nevoie acum, adauga ce e necesar
+
+	SOLID = set de 5 reguli pentru un cod organizat si usor de intretinut
+	S - Single Responsibility Principle. o clasa tb sa aiba o singura responsabilitate
+	O - Open/Closed Principle.=>Codul trebuie să fie deschis pentru extindere, dar închis pentru modificare.
+	L - Liskov Substitution Principle =>O subclasă trebuie să poată înlocui clasa părinte fără probleme
+	I - Interface Segregation Principle => Interfețele mari trebuie împărțite în interfețe mai mici și specifice
+	D - Dependency Inversion Principle = >Modulele de nivel înalt trebuie să depindă de abstracții, nu de implementări concrete
+	
+	Respect variable naming conventions
+Folosește nume de variabile clare și semnificative
+
+	Respect indentation styles
+Indentare corectă pentru a face codul mai ușor de citit
+
+	Keep a tidy workspace
+Păstrează un cod curat și organizat.
