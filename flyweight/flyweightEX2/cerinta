@@ -1,0 +1,8 @@
+You are tasked with developing a lightweight document rendering system for a text editor.
+In the system, documents contain thousands of characters.
+Each character type (e.g., 'a', 'b', 'c') appears many times.
+To improve performance and memory efficiency, identical characters must be shared.
+ Each character shares its intrinsic data (the symbol itself), but has extrinsic data like font, position (x, y),
+ and size that vary per usage.
+ Implement this system using an abstract class as the Flyweight, and a factory to manage character sharing.
+

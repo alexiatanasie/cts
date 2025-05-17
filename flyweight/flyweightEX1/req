@@ -1,0 +1,8 @@
+Game: Forest with Trees
+Requirement:
+A game renders a huge forest. Most trees are of a few types (oak, pine, etc.), but there are thousands of instances.
+Flyweight usage:
+Tree type (image, height, texture) = intrinsic.
+Position, age, health = extrinsic.
+Interface: Tree (with display(Location location))
+
